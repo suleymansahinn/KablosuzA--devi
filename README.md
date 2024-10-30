@@ -4,7 +4,7 @@ Bu proje, Python ile ağ topolojisi çizimi ve görselleştirilmesi üzerine bir
 
 ## Gereksinimler
 
-- Python 3.x
+- Python 
 - NetworkX
 - Matplotlib
 
